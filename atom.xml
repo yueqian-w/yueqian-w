@@ -6,7 +6,7 @@
   <link href="https://yueqian-w.github.io/atom.xml" rel="self"/>
   
   <link href="https://yueqian-w.github.io/"/>
-  <updated>2022-03-24T21:10:55.022Z</updated>
+  <updated>2022-03-24T21:19:08.131Z</updated>
   <id>https://yueqian-w.github.io/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>The Very First Post</title>
     <link href="https://yueqian-w.github.io/2022-03/first_post/"/>
     <id>https://yueqian-w.github.io/2022-03/first_post/</id>
     <published>2022-03-24T20:31:25.720Z</published>
-    <updated>2022-03-24T21:10:55.022Z</updated>
+    <updated>2022-03-24T21:19:08.131Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="The-Very-First-Post"><a href="#The-Very-First-Post" class="headerlink" title="The Very First Post"></a>The Very First Post</h2><h3 id="Let’s-try-something-new"><a href="#Let’s-try-something-new" class="headerlink" title="Let’s try something new!"></a>Let’s try something new!</h3><p>This may potentially be the homepage for the “big day”!</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Let’s-try-something-new"><a href="#Let’s-try-something-new" class="headerlink" title="Let’s try something new!"></a>Let’s try something new!</h3><p>This may potentially be the homepage for the “big day”!</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;The-Very-First-Post&quot;&gt;&lt;a href=&quot;#The-Very-First-Post&quot; class=&quot;headerlink&quot; title=&quot;The Very First Post&quot;&gt;&lt;/a&gt;The Very First Post&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;Let’s-try-something-new&quot;&gt;&lt;a href=&quot;#Let’s-try-something-new&quot; class=&quot;headerlink&quot; title=&quot;Let’s try something new!&quot;&gt;&lt;/a&gt;Let’s try someth</summary>
       
     
     
